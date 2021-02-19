@@ -2,15 +2,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.3.6.2 (Linux)"/>
-	<meta name="created" content="2020-07-02T15:10:51.190366761"/>
-	<meta name="changed" content="2021-02-19T12:04:41.852819187"/>
-	<style type="text/css">
-		@page { size: 8.5in 11in; margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-	</style>
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0in; line-height: 100%">
 I used the tutorial linked below to create a self hosted ToDo app. It
